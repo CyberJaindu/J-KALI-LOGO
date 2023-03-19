@@ -1,4 +1,4 @@
-# J-KALI-LOGO
+❤️# J-KALI-LOGO
 
 - 👋 Hi, I’m @CyberJaindu
 - 👀 I’m interested in ...
@@ -25,7 +25,7 @@
 
 -pkg install git
 
--git clone 
+-git clone https://github.com/CyberJaindu/J-KALI-LOGO
 
 -ls
 
